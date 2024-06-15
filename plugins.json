@@ -9,5 +9,16 @@
     "displayName": "test",
     "description": "",
     "provider": "test"
+  },
+  {
+    "internalName": "loot-lookup",
+    "hash": "4cba37e0619f901b5ea0649efe6ac50c9b4a142a29dda1672e3e983a20643912",
+    "size": 451499,
+    "plugins": [
+      "com.lootlookup.LootLookupPlugin"
+    ],
+    "displayName": "loot lookup",
+    "description": "",
+    "provider": "loot"
   }
 ]
