@@ -1,10 +1,10 @@
 [
   {
-    "internalName": "hijack-customize-pluginhub",
-    "hash": "ca9ddd3a14a1b6033eb6a59da6465f5f72d47af351f6ce0a13d3ee40fb5b38ea",
-    "size": 2221,
+    "internalName": "custom-plugin",
+    "hash": "337d2495716a8a4f92556c34a720ce450e11a4e4c9779562bd096bd0a46158ba",
+    "size": 14058,
     "plugins": [
-      "ca.arnah.runelite.HijackCustomizePlugin"
+      "com.attacksound.PrayerHotkeysPlugin"
     ],
     "displayName": "test",
     "description": "",
