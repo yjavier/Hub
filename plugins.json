@@ -6,8 +6,8 @@
     "plugins": [
       "ca.arnah.runelite.HijackCustomizePlugin"
     ],
-    "displayName": "HiJack Customize PluginHub",
+    "displayName": "test",
     "description": "",
-    "provider": "arnah"
+    "provider": "test"
   }
 ]
